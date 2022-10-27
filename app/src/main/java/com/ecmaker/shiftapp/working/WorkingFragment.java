@@ -88,7 +88,7 @@ public class WorkingFragment extends Fragment {
 
         //取得當前Activity
         mainActivity = (MainActivity) getContext();
-
+//test
         //通知(鈴鐺)
         LinearLayout notification = root.findViewById(R.id.notification);
         notification.setOnClickListener(new View.OnClickListener() {
