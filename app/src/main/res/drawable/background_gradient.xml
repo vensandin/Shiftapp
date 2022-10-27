@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--
+        angle 漸變角度
+        startColor 起始顏色
+        centerColor 中間顏色
+        endColor 結束顏色
+    -->
+    <gradient
+        android:angle="270"
+        android:startColor="@color/gradient1"
+        android:centerColor="@color/gradient2"
+        android:endColor="@color/gradient3" />
+</shape>

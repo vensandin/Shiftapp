@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AN1100300/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/AN1100300/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment1.xml" value="0.270628078817734" />
+        <entry key="..\:/Users/AN1100300/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/hero_group_item.xml" value="0.2015625" />
+        <entry key="..\:/Users/AN1100300/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/hero_list_item.xml" value="0.2015625" />
+        <entry key="..\:/Users/AN1100300/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/treeview_item.xml" value="0.25307881773399016" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_blue_frame.xml" value="0.1875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_button_color.xml" value="0.1235" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_button_color2.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_calendar.xml" value="0.3675" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_corners2.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_corners_dialog.xml" value="0.197" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_edittext.xml" value="0.1235" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_edittext2.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_error.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_focused.xml" value="0.1235" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_forget_dialog.xml" value="0.1235" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_gradient.xml" value="0.1875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_gray_frame.xml" value="0.1875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_none.xml" value="0.1645" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_normal.xml" value="0.1235" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_orange_frame.xml" value="0.1875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/bg_switch.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/circle_green.xml" value="0.1875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_black_overlay.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_gray.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_gray_light.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_primary.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_primary_dark.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/color_transparent.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/outline.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/switch_off.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/switch_on.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/switch_text.xml" value="0.108" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/thumb_selector.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/track_selector.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/activity_pin_code.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/attendance_item_view1.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/attendance_item_view2.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/customize_add_item_view.xml" value="0.18318965517241378" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/customize_data_item_view.xml" value="0.18318965517241378" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/date_item_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_delete_working.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_forget.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_input_text.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_right.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_send.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dropdown_selector_popupwindow.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/filter_popupwindow.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment1.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_2.xml" value="0.15178571428571427" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_attendance.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_overtime.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_partner.xml" value="0.3193350831146107" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_partner_detial.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_partner_item.xml" value="0.3168724279835391" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_report.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_travel.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_travel_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_vacation.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_vacation_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_working.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_working2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/monthly_calendar_popupwindow.xml" value="0.5" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/notification_item_view.xml" value="0.6" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/notification_popupwindow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/person_item_view.xml" value="0.28193832599118945" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/person_item_view2.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/shop_selector_itemview.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/shop_selector_popupwindow.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/show_popupwindow.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/sign_item_view.xml" value="0.275" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/sign_item_view2.xml" value="0.275" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/table_item_view.xml" value="0.22" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/table_item_view2.xml" value="0.1" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/table_item_view3.xml" value="0.6" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/table_item_view4.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/table_item_view5.xml" value="0.6347305389221557" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/treeview_item.xml" value="0.21921182266009853" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/working_item_view.xml" value="0.27421875" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/working_popupwindow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/working_popupwindow1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/working_popupwindow2.xml" value="0.18318965517241378" />
+        <entry key="..\:/Users/vensan/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/working_popupwindow3.xml" value="0.18318965517241378" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane(20220829)/app/src/main/res/layout/date_item_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane(20220829)/app/src/main/res/layout/fragment1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane(20220829)/app/src/main/res/layout/table_item_view.xml" value="0.158984375" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane(20220829)/app/src/main/res/layout/table_item_view2.xml" value="0.158984375" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane(20220829)/app/src/main/res/layout/table_item_view3.xml" value="0.158984375" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/drawable/background_vacation_tablerow.xml" value="0.287109375" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/activity_pin_code.xml" value="0.14039408866995073" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/dialog_forget.xml" value="0.6" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_attendance.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_travel.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_travel_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_vacation.xml" value="0.3328125" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/fragment_vacation_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/william/AndroidStudioProjects/SlidingPane/app/src/main/res/layout/treeview_item.xml" value="0.14039408866995073" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

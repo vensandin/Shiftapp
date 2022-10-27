@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!--設定形狀的顏色-->
+            <solid android:color="@color/button_blue2" />
+            <!--設定圓角的尺寸-->
+            <corners android:radius="@dimen/cardCornerRadius" />
+            <!--設定內容與邊界的距離-->
+        </shape>
+    </item>
+</layer-list>

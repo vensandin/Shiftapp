@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_value">250dp</dimen>
+    <dimen name="my_value2">270dp</dimen>
+    <dimen name="cardCornerRadius">10dp</dimen><!--圓角角度-->
+    <dimen name="cardCornerRadius2">5dp</dimen><!--圓角角度-->
+</resources>
